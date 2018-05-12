@@ -25,7 +25,9 @@ function submitAnswers() {
     results.innerHTML = '<h3> you scored <span> '+score+' </span> out of <span> '+total+' </span> </h3>';
 
       
-     alert('you scored '+score+'out of '+total );
+    
+   
+
     
     return false;
     

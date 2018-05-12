@@ -1,5 +1,5 @@
 body{
-    background:#1a0a238a;
+    background:LightCyan ;
     color: black;
     font-family: sans-serif;
     font-size: 14px;
@@ -12,6 +12,14 @@ body{
     overflow: auto;
     padding: 25px;
 }
+#results{ 
+    color:red;
+    background:CadetBlue;  
+    
+    
+    font-size: 40px;
+}
+
 header{
     text-align: center;
     border-bottom: #fff dashed 1px;
